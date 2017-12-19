@@ -1,0 +1,8 @@
+//test
+export default{
+	mounted() {
+
+	}
+}
+	
+

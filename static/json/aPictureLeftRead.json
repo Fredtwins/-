@@ -1,0 +1,171 @@
+{
+	"result": [{
+    	   "index": 0,
+    	   "data": [{
+    		   "name": "气象",
+    		   "img": "weather.png",
+    		   "checked": true,
+    		   "children": [{
+    			   "name": "雨",
+    			   "layer": "rainLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "风力风向",
+    			   "layer": "windLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "温度",
+    			   "layer": "temperatureLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "台风",
+    			   "layer": "typhoonLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "云图",
+    			   "layer": "cloudLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "雷达",
+    			   "layer": "radarLayer",
+    			   "checked": false
+    		   }]
+    	   },{
+    		   "name": "水利",
+    		   "img": "water.png",
+    		   "checked": false,
+    		   "children": [{
+    			   "name": "水库",
+    			   "layer": "reservoirLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "水闸",
+    			   "layer": "gateLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "泵站",
+    			   "layer": "pumpLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "内涝点",
+    			   "layer": "waterloggingLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "水位站",
+    			   "layer": "hydrologyLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "潮位站",
+    			   "layer": "tideGaugeLayer",
+    			   "checked": false
+    		   }]
+    	   },{
+    		   "name": "三防实时监控",
+    		   "img": "video.png",
+    		   "checked": false,
+    		   "children": [{
+    			   "name": "气象实况",
+    			   "layer": "weatherLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "治安监控",
+    			   "layer": "policLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "西江",
+    			   "layer": "westRiverLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "污染源",
+    			   "layer": "pollutionLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "水利工程",
+    			   "layer": "waterProjectLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "避难所",
+    			   "layer": "refugeVideoLayer",
+    			   "checked": false
+    		   }]
+    	   }]
+       },{
+    	   "index": 0,
+    	   "data": [{
+    		   "name": "水利",
+    		   "img": "water.png",
+    		   "checked": true,
+    		   "children": [{
+    			   "name": "水网",
+    			   "layer": "waterNetLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "排水口",
+    			   "layer": "drainPortLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "构建筑物",
+    			   "layer": "buildingLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "堤围",
+    			   "layer": "banksLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "险段",
+    			   "layer": "criticalsLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "涵闸",
+    			   "layer": "waterGateLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "排灌站",
+    			   "layer": "drainStationLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "水文站",
+    			   "layer": "hydrologyLayer",
+    			   "checked": false
+    		   }]
+    	   },{
+    		   "name": "供排水",
+    		   "img": "waterpipe.png",
+    		   "checked": false,
+    		   "children": [{
+    			   "name": "水浸黑点",
+    			   "layer": "blackPointLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "下沉隧道",
+    			   "layer": "",
+    			   "checked": false
+    		   },{
+    			   "name": "供水管网",
+    			   "layer": "supplyPipeLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "自来水厂",
+    			   "layer": "waterFactoryLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "供水设施",
+    			   "layer": "supplyDeviceLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "排水管",
+    			   "layer": "drainPipeLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "污水厂",
+    			   "layer": "dirtyFactoryLayer",
+    			   "checked": false
+    		   },{
+    			   "name": "排水设施",
+    			   "layer": "drainDeviceLayer",
+    			   "checked": false
+    		   }]
+    	   }]
+       }
+	]
+}
